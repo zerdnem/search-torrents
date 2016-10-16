@@ -1,0 +1,24 @@
+.poster{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.torrent{
+    margin-bottom: 15px;
+}
+
+#data {
+    border-bottom: 1px solid #ddd;
+}
+
+#data2 {
+    border-bottom: 1px solid #ddd;
+}
+
+#data3 {
+    border-bottom: 1px solid #ddd;
+}
+
+#data4 {
+    border-bottom: 1px solid #ddd;
+}
